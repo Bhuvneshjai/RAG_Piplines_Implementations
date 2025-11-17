@@ -33,6 +33,7 @@ This repository contains multiple implementations of **Retrieval-Augmented Gener
 ```bash
 git clone https://github.com/Bhuvneshjai/RAG_Piplines_Implementations.git
 cd RAG_Piplines_Implementations
+```
 
 ---
 
